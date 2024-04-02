@@ -12,7 +12,7 @@ app = (() => {
     }
 
     function getPrimes(){
-        let number = document.getElementById("value").value;
+        let number = document.getElementById("valueP").value;
         const xhttp = new XMLHttpRequest();
         xhttp.onload = function () {
             document.getElementById("getrespmsg").innerHTML =
