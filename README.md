@@ -43,14 +43,19 @@ o parandose en la carpeta raiz del repositorio, puede ejecutar los siguientes co
 
 cuando ya se tenga corriendo la aplicacion, se proda ver el siguiente formulario
 
-![inicial](README-resources/inicial.png)
+![inicial](README-resources/inicial.PNG)
 
 ## PRUEBAS
 aqui se adjutan agunas pruebas en la maquina local
 
 - Factores
-  ![factores](README-resources/factors-proof.png)
+  
+  ![factores](README-resources/factors-proof.PNG)
+
+  
 - Primos
+
+  
   ![primos](README-resources/primes-proof.png)
 
 ## DESPLIEGUE EN AWS
