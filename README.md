@@ -37,7 +37,7 @@ o parandose en la carpeta raiz del repositorio, puede ejecutar los siguientes co
 - Para Windows
   ```bash
   java -cp "target/classes;target/dependency/*" edu.eci.arep.parcial2.proxyServer.Proxy
-  java -cp "target/classes;target/dependency/*" edu.eci.arep.parcial2.MathServiceServer.MathServe
+  java -cp "target/classes;target/dependency/*" edu.eci.arep.parcial2.MathServiceServer.MathServer
   ```
 
 
