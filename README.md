@@ -67,5 +67,9 @@ A contuniación se presenta un video del trabajo en el despligue de AWS cumplien
 
 
 
+https://github.com/santiforero1018/AREP-PARCIAL2/assets/88952698/0a20d072-9377-434e-9429-f2466530302a
+
+
+
 ## AUTOR
 - Santiago Forero Yate - [mi perfil de github](https://github.com/santiforero1018)
