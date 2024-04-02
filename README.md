@@ -1,4 +1,4 @@
-![image](https://github.com/santiforero1018/AREP-PARCIAL2/assets/88952698/125b00fe-d1cf-4728-8381-33984f286504)# AREP-PARCIAL2
+# AREP-PARCIAL2
 
 ## REQUISITOS
 * [Java version 17](https://www.oracle.com/co/java/technologies/downloads/) - Lenguaje de programación usado.
