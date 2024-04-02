@@ -8,7 +8,7 @@ import java.net.URL;
 
 public class Caller {
     private static final String USER_AGENT = "Mozilla/5.0";
-    private static final String[] GET_URLs = {"http://localhost:4568/", "http://localhost:4568/"};
+    private static final String[] GET_URLs = {"http://ec2-54-167-174-75.compute-1.amazonaws.com:4568/", "http://ec2-18-212-8-200.compute-1.amazonaws.com:4568/"};
     private static int instancia = 1;
 
     public static String callMethod(String method, int n) throws IOException {

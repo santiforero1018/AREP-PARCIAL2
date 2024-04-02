@@ -1,6 +1,5 @@
 package edu.eci.arep.parcial2.MathServiceServer;
 
-import spark.Spark;
 import static spark.Spark.get;
 import static spark.Spark.port;
 
