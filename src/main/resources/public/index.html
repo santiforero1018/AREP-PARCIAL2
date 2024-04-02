@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Math Services</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="./app.js"></script>
+    </head>
+    <body>
+        <h1>Math ServiceS</h1>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <h3>SERVER ONLY SUPPORTS FACTORS AND PRIMES OPERATIONS</h3>
+        <br>
+        <br>
+        <br>
+        <br>
+        <h2>Factors Operation</h2>
+        <form action="/factors">
+            <label for="name">Value:</label><br>
+            <input type="text" id="value" name="value" value="0"><br><br>
+            <input type="button" value="Submit" onclick="app.getFactors()">
+        </form> 
+
+        <br>
+        <br>
+        <br>
+
+
+        <h2>Primes Operation</h2>
+        <form action="/primes">
+            <label for="name">Value:</label><br>
+            <input type="text" id="value" name="value" value="0"><br><br>
+            <input type="button" value="Submit" onclick="app.getPrimes()">
+        </form> 
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <div id="getrespmsg"></div>
+    </body>
+</html>
